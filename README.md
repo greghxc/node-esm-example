@@ -1,13 +1,6 @@
 # node-esm-example
 Example JavaScript console app using esm for import/export.
 
-## generation
-The application was generated using npm init:
-```
-mkdir esm-test && cd esm-test
-npm init esm --yes
-```
-
 ## use
 
 Clone the repo, then:
@@ -18,3 +11,10 @@ npm start
 ```
 
 The can be run using `node index.js` or `npm start`.
+
+## generation
+The application was generated using npm init:
+```
+mkdir esm-test && cd esm-test
+npm init esm --yes
+```
