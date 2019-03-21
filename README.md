@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-The can be run using `node index.js` or `npm start`.
+Can be run using `node index.js` or `npm start`.
 
 ## some interesting files
 
